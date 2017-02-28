@@ -156,10 +156,6 @@ $ git log
 
 ![Local/Remote Chart](assets/1-Local-Remote-Chart.png)
 
-<br>
-
-![Git Workflow](assets/2-chart.png)
-
 ### Part 4: More Commits, and Viewing the Repo History
 
 Edit `hello.txt`, and commit the following changes:
